@@ -27,5 +27,5 @@ class Solution:
             return True
         if root1 == None or root2 == None:
             return False
-        return (root1.val == root2.val) and self.isMirror(root1.right,root2.left) and                           self.isMirror(root1.left, root2.right)
+        return (root1.val == root2.val) and self.isMirror(root1.right,root2.left) and self.isMirror(root1.left, root2.right)
     
