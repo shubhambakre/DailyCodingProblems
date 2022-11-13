@@ -5,20 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="096c0df2-29ca-4906-be2d-a654de118fa3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/November/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/October/31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/October/26.py" beforeDir="false" afterPath="$PROJECT_DIR$/October/26.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/October/27.py" beforeDir="false" afterPath="$PROJECT_DIR$/October/27.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/October/28.py" beforeDir="false" afterPath="$PROJECT_DIR$/October/28.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/October/29.py" beforeDir="false" afterPath="$PROJECT_DIR$/October/29.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/October/30.py" beforeDir="false" afterPath="$PROJECT_DIR$/October/30.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +33,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="24o7L4eRkVMOAAytnqooythAvfG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
