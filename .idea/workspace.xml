@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="096c0df2-29ca-4906-be2d-a654de118fa3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/November/10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/24.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
